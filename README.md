@@ -1,6 +1,6 @@
 # MovieFIB
 
-Code for creating dataset and running models described in the paper "A dataset and models for understanding video data through filll-in-the-blank question-answering" 
+Code for creating dataset and running models described in the paper "A dataset and models for understanding video data through fill-in-the-blank question-answering", which will appear at CVPR2017.
 
 Paper: https://arxiv.org/abs/1611.07810
 
